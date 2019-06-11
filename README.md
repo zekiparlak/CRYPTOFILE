@@ -1,2 +1,2 @@
 # CRYPTOFILE
-file decryption and encryption
+file encryption and decryption
